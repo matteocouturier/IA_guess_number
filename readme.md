@@ -1,7 +1,10 @@
 # IA_guess_number
 ***
+Le principe est de dessiner des numéros dans une grille 20x20 pour qu'une intelligence artificielle devine ce que vous avez dessiné.
+
 Pour ce projet, j'ai décidé d'utiliser principalement la librairie __FANN (Fast Artificial Neural Network)__ 
 qui permet de créer des réseaux de neurones en __PHP__.
+
 
 ## Installation de FANN 
 

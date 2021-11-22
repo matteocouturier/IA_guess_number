@@ -1,10 +1,6 @@
 <?php
-ini_set('display_errors', 1);
-ini_set('display_startup_errors', 1);
-error_reporting(E_ALL);
 
 //début de l'entrainememnt
-
 //récuperation de la valeurs du numéro dessiné en POST
 if(isset($_POST['num']))
 {
